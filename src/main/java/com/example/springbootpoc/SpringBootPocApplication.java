@@ -17,6 +17,9 @@ public class SpringBootPocApplication {
 		SpringApplication.run(SpringBootPocApplication.class, args);
 		System.out.println("Hello World");
 		System.out.println("Springboot");
+		System.out.println("Spring");
+		System.out.println("4th commit");
+
 	}
 
 }
